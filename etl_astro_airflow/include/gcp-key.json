@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "atomic-griffin-455106-h5",
+  "private_key_id": "dab74d0f3e177b491f86ae40c1e98c27c146b81f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3y8EEbe4dr9qx\nkt+rMPV5s6IY45oeprcF7qL+jxX5kfbUie/0d2KRBxBUYwLzYXXNUMzg6dnQL2b5\nT7yrS41NJsnlDfXVma0maCG3wWwQAjGf3di79vCVQxKj2ZhiYTXw0sn2ifUfxI+n\nNhIM8GMDgyIBNz4e7HM3gG8RQu2hE7DrH2JVcR5eraWmPS4bx28E3hwYIgOvx7oi\nVeCpAvY9tv1IaolbKJMRcrFZsTpzA/RfckunsyBOx4E+sN0Na+mlF083kuPUO9vZ\nY02u4uEOwSb5K1C8Y8v5/xMXK9yyHv4g2cjqQros+FLIsH7AFdXkXbv6VR09BNCo\nt3J9z7X9AgMBAAECggEAAtrLAZO0uWJQ8Vjrv2yjWDbcvPbTOHtBAXpIFTZJhZa2\nSjozb2a0foMpExGpaviBcphsLjW20j+ooXusqjTVgE33bQBvNPIBMsUDedqq7OhT\n0Mm9z+5eCztyj5GI7Xilp7sAAKPHTZO2FXp6A+U7hhAkPl39lk/4dCa7Bhe17PGe\nD0FWD+sIoV0UeM9rHA3sIldvK95lB0XSVCm2dEPNpTjcjWS0uRphiXMLvl3zQJRJ\n+Y5qVFcYCoHYjY6/SYOTuukJaxLEBalr6c5OI83n5xR0iNieZdZCe+ayzdT4vXU2\nbiKxcDOerryUf3zufLJZZL+aSV1cWPhm+6zF/Fok0QKBgQD2Ckwl34dObXlKbd/P\nz41lIX4lgmrvt00mZnq0ednQlHw7hFTOYEzfZl0S1jRXVIixCgSiDoD4NjxLJ6y4\ndwSncJrfoYbfB7j66DAof43mUyvOnsQsa2cOR8R6Gu1B2YxEsbwHC2c9OakKWbAE\nepbeiTUzhZl6XMEk3OyamJy/xQKBgQC/PGv95jvDaxP0VbEcvTEQImiCy1fWHDqy\nOCLYZALd06fQHNld336C/unCeYFCJx9m/BlDZpavZtA1DtE6ekULNJ7CGaKEM3A/\nuZbAjt1XCUGxdWaAhtf96d1drKbITzd72u156xDI1p+G/T3mVUfqbf8aO4fGNCbP\nkJnCw1cI2QKBgA80X7RPdfsgxMgWtigPeXtwcG08/ALIXxoqZxbUGOPM6Uh8Swld\n5iJAHyxU1HM5JCFcryCcqNet8lfqob/ciwsV6Fw9jSonPgUzaBZ4m3pKVYC1SwY7\ntOirArdRBqx1Fzf/i9EboUulTo73L+t27+/cps8CSJPJO55dkLmVCMrJAoGBAKhq\nGeD8hd1Py77+SIA6zZ6b7tZhJfXV3otdjLJtQWkCIWPSREu7q7rJrCwsvXz431re\n4ZDOJB5MuUhAyFprm6qGqNnfoZQziMNWOkFSj/M6n7Qc5CyElGt1LhJ1HlyCByb4\nYvNf5OQ6vzsugvj6Wd9HB8aebrBK9XMOsZsoVNnhAoGAXJ0meKKmeWcqFkgPdWzW\nan2MxWlCWN8vEE97hbtSTC7vwu6AWUNq/c9KuBfY5KE2YcSQNtIqpO71e9ziFFJv\nC7r14oP+HO9bEvjV9jne906NP5kPFA4OSV9vRTEonvbTqiqE6QQqcBK1dt3DW979\n1APMHf/lhqFeQrrnwAA9WiM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mlops-prj3-titanic-survival-pr@atomic-griffin-455106-h5.iam.gserviceaccount.com",
+  "client_id": "109542297012895163399",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mlops-prj3-titanic-survival-pr%40atomic-griffin-455106-h5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

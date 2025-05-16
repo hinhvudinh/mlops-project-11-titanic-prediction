@@ -1,0 +1,14 @@
+deployments:
+  - name: dev
+    executor: celery
+    image:
+      name: quay.io/astronomer/astro-runtime:7.3.0
+    env: dev
+    volumes:
+      - ./include:/usr/local/airflow/include
+postgres:
+    port: "5439"
+project:
+    name: mlops-project-11-titanic-survival-prediction
+webserver:
+    port: "8078"

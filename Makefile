@@ -8,11 +8,8 @@ init:
 	source .venv/bin/activate && \
 	pip install -e .
 
-venv:
-	source .venv/bin/activate
-
 install:
-	pip install -r requirements.txt
+	pip install -e .
 
 run-api:
 	uvicorn app.main:app --reload
