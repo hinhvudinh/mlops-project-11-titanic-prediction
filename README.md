@@ -155,7 +155,7 @@ This document provides a detailed, step-by-step guideline for managing the MLOps
 ### Steps
   - (manual) Load data from Kaggle
   - (manual) Load data from GCP bucket
-  - Load data from feature store (Redis) 
+  - Load data from database 
 ### Recommendations
 - Add robust error handling and logging.
 - Schedule periodic data validation to ensure data quality.
@@ -187,6 +187,7 @@ This document provides a detailed, step-by-step guideline for managing the MLOps
 
 ### Steps
 - Refactor the notebook code into reusable classes/functions for data processing.
+- Load to feature store
 
 ### Recommendations
 - Ensure scalability and modularity.
@@ -199,6 +200,7 @@ This document provides a detailed, step-by-step guideline for managing the MLOps
 ## 2.6 Model Training
 
 ### Steps
+- Load features from feature store
 - Refactor notebook-based model training into a class-based module.
 
 ### Recommendations
