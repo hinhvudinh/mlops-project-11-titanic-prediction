@@ -144,6 +144,14 @@ This document provides a detailed, step-by-step guideline for managing the MLOps
   ```bash
     astro dev start
   ```
+- login to astro UI
+  - user: admin
+  - pw: admin
+
+- setup gcp bucket, db postgres connection
+  - admin tab/new record
+  - detail in file project-materials/PROJECT-3 MATERIALS.txt
+- create etl using python in dags/
 
 ## Recommendations
 - Set up Airflow monitoring using Prometheus/Grafana or Astro UI to monitor DAG health. 
@@ -234,6 +242,7 @@ This document provides a detailed, step-by-step guideline for managing the MLOps
 - Create dashboards for real-time experiment monitoring.
 - Use MLflow Model Registry to manage model lifecycle stages (Staging, Production).
 - Standardize metadata (tags, versions) across tools like TensorBoard, Comet-ML, Mlflow
+- Save model artifacts in cloud bucket like s3; google bucket
 
 ---
 
